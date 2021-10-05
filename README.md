@@ -7,7 +7,7 @@ Skeleton loader for Flutter apps.
 ```yaml
 skeleton_loader:
     git:
-      url: git@github.com:doev03/skeleton_loader.git
+      url: https://github.com/doev03/skeleton_loader.git
 ```
 
 ## Usage
