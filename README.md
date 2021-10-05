@@ -1,6 +1,6 @@
 # skeleton_loader
 
-A new Flutter project.
+Skeleton loader for Flutter apps.
 
 ## Getting Started
 
