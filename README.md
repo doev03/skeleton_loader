@@ -13,5 +13,7 @@ skeleton_loader:
 ## Usage
 
 ```dart
-child: SkeletonLoader(),
+child: SkeletonLoader(
+    height: 50,
+),
 ```
